@@ -1,5 +1,10 @@
 # homepage
-homepage of scheme verge
 
+```
+git pull
+```
+して、index.htmlを編集してください。
 
-check
+`images/`
+フォルダの中に、画像ファイルがあるはず
+
