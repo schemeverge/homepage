@@ -36,14 +36,14 @@ File: Layout CSS
 #header{}
 
 #header #logo{margin-top:25px;}
-#header #logo *{margin:0; padding:0; line-height:1;}
+#header #logo *{margin:0; padding:0;}
 #header #logo h1{font-size:22px; text-transform:none}
 #header #logo p{font-size:12px; text-transform:none;}
 
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:150px 0;}
+#pageintro{padding:150px 0; background-color:}
 
 #pageintro article{max-width:75%;}
 #pageintro article *{text-transform:none;}
@@ -51,7 +51,6 @@ File: Layout CSS
 #pageintro article p{margin:0;}
 #pageintro article p:first-of-type{margin-bottom:35px; font-size:22px; letter-spacing:5px;}
 #pageintro article footer{margin-top:80px;}
-
 
 /* Content Area
 --------------------------------------------------------------------------------------------------------------- */
